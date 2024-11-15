@@ -1,6 +1,6 @@
 package program_1;
 
-public class methodParameterTask {
+public class methodParametertask1 {
 	
 	public static void main(String[] args) {
 		
