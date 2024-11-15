@@ -1,6 +1,6 @@
 package program_1;
 
-public class OperatorsTask {
+public class Operatorstask1 {
 	
 	public static void main(String[] args) {
 		
