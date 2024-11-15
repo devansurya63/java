@@ -1,6 +1,6 @@
 package program_1;
 
-public class ReturnTypeTask {
+public class ReturnTypetask1 {
 	
 	static int add (int num1 , int num2) {
 		
